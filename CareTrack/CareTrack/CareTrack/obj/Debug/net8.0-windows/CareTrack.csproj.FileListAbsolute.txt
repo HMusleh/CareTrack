@@ -1,0 +1,8 @@
+C:\Users\wigto\source\repos\CareTrack\CareTrack\obj\Debug\net8.0-windows\CareTrack.Form1.resources
+C:\Users\wigto\source\repos\CareTrack\CareTrack\obj\Debug\net8.0-windows\CareTrack.Properties.Resources.resources
+C:\Users\wigto\source\repos\CareTrack\CareTrack\obj\Debug\net8.0-windows\CareTrack.csproj.GenerateResource.cache
+C:\Users\wigto\source\repos\CareTrack\CareTrack\obj\Debug\net8.0-windows\CareTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wigto\source\repos\CareTrack\CareTrack\obj\Debug\net8.0-windows\CareTrack.AssemblyInfoInputs.cache
+C:\Users\wigto\source\repos\CareTrack\CareTrack\obj\Debug\net8.0-windows\CareTrack.AssemblyInfo.cs
+C:\Users\wigto\source\repos\CareTrack\CareTrack\obj\Debug\net8.0-windows\CareTrack.csproj.CoreCompileInputs.cache
+C:\Users\wigto\source\repos\CareTrack\CareTrack\obj\Debug\net8.0-windows\CareTrack.Login.resources
